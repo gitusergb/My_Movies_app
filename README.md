@@ -14,6 +14,17 @@ The Movie App is a simple, user-friendly platform where you can explore, sort, a
 - **Database**: MongoDB
 - **Styling**: CSS
 
+## ScreenShots
+
+
+https://i.ibb.co/V2w2RkV/movi-page.png
+
+
+https://i.ibb.co/c39L7by/movies.png
+
+https://i.ibb.co/njLN1g4/movie-app-data.png
+
+
 ## Installation
 1. Clone the repository:
 
@@ -49,14 +60,21 @@ The Movie App is a simple, user-friendly platform where you can explore, sort, a
     ```
 
 ## Netlify Deployment
-The application is deployed on Netlify. You can access the live version [Netlify Link](#).
+The application is deployed on Netlify. You can access the live version [Netlify Link](https://sunny-phoenix-6add1a.netlify.app/).
 
 ## Contributor
 - **Gauri Bidwai**
 
 
 
-<!-- # Getting Started with Create React App
+<!--
+https://i.ibb.co/V2w2RkV/movi-page.png
+https://i.ibb.co/njLN1g4/movie-app-data.png
+https://i.ibb.co/c39L7by/movies.png
+
+
+
+ # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 

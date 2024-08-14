@@ -20,7 +20,7 @@ const MovieList=()=> {
 
     return (
         <div >
-                <span id='s'><small> Click on the movie to go on the movie_page</small></span>
+        <span id='s'><small> Click on the movie to go on the movie_page</small></span>
          <div id="movies_div">
             {movies.map(movie => (
                 <div key={movie._id} onClick={() => handleMovieClick(movie._id)}>
