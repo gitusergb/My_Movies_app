@@ -16,25 +16,36 @@ The Movie App is a simple, user-friendly platform where you can explore, sort, a
 
 ## Installation
 1. Clone the repository:
+
     ```
     git clone https://github.com/gitusergb/My_Movies_app.git
+
     ```
+
 2. Install dependencies for both frontend and backend:
+
     ```
-  cd  my_movies_client
+    cd  my_movies_client
     npm install
-   cd my_movies
+
+    cd my_movies
     npm install
+
     ```
+
 3. Start the backend server:
+
     ```
     cd my_movies
     npm start
+
     ```
 4. Start the frontend development server:
+
     ```
     cd  my_movies_client
     npm start
+    
     ```
 
 ## Netlify Deployment
