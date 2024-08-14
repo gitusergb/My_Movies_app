@@ -14,15 +14,11 @@ The Movie App is a simple, user-friendly platform where you can explore, sort, a
 - **Database**: MongoDB
 - **Styling**: CSS
 
-## ScreenShots
+## Screenshots
 
-
-https://i.ibb.co/V2w2RkV/movi-page.png
-
-
-https://i.ibb.co/c39L7by/movies.png
-
-https://i.ibb.co/njLN1g4/movie-app-data.png
+| Home Page       | Movie Details Page | Movies Data |
+|-----------------|---------------------|----------------------|
+| ![Home Page](https://i.ibb.co/c39L7by/movies.png) | ![Movie Details Page](https://i.ibb.co/V2w2RkV/movi-page.png) | ![Movies DB](https://i.ibb.co/njLN1g4/movie-app-data.png) |
 
 
 ## Installation
