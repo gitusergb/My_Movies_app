@@ -1,4 +1,51 @@
-# Getting Started with Create React App
+
+# 🎬 Movie App
+
+## Description
+The Movie App is a simple, user-friendly platform where you can explore, sort, and view detailed information about your favorite movies. It allows users to browse through a collection of movies, view their details. This app is built using React for the frontend and Node.js with Express.js for the backend. MongoDB is used for storing movie data.
+
+## Features
+- **Browse Movies**: Explore a collection of movies with their names, release dates, image, and IMDb ratings.
+- **Movie Details**: Click on any movie to view its detailed information on a separate page.
+
+## Tech Stack
+- **Frontend**: React.js
+- **Backend**: Node.js, Express.js
+- **Database**: MongoDB
+- **Styling**: CSS
+
+## Installation
+1. Clone the repository:
+    ```
+    git clone https://github.com/gitusergb/My_Movies_app.git
+    ```
+2. Install dependencies for both frontend and backend:
+    ```
+  cd  my_movies_client
+    npm install
+   cd my_movies
+    npm install
+    ```
+3. Start the backend server:
+    ```
+    cd my_movies
+    npm start
+    ```
+4. Start the frontend development server:
+    ```
+    cd  my_movies_client
+    npm start
+    ```
+
+## Netlify Deployment
+The application is deployed on Netlify. You can access the live version [Netlify Link](#).
+
+## Contributor
+- **Gauri Bidwai**
+
+
+
+<!-- # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -67,4 +114,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 ### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify) -->
